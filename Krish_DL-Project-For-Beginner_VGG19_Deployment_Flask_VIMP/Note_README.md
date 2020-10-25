@@ -1,0 +1,6 @@
+# DL-Project-For-Beginner
+
+https://www.youtube.com/watch?v=UeydWKkjwwE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=45
+
+https://github.com/krishnaik06/DL-Project-For-Beginner
+
